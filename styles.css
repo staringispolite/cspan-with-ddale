@@ -509,7 +509,7 @@ footer[role=contentinfo] img {
 		font-size: 5.6em;
 	}
 	.container {
-		padding-bottom: 4em;
+		padding-bottom: 1em;
 	}
 	footer[role=contentinfo] {
 		position: fixed;
